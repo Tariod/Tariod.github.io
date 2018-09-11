@@ -38,17 +38,12 @@ body {
   text-align: center;
   border-bottom: 1px solid #E7EAEC
 }
+.map {
+  padding: 5px;
+}
 .title {
   display: inline-block;
   padding: 10px 10px 10px 0px;
-}
-.table-container {
-  margin-top: 15px;
-  background-color: #FFFFFF;
-  padding: 15px 20px 20px 20px;
-}
-.extra {
-  text-align: start;
 }
 h1, h4 {
   margin: 0;
@@ -59,16 +54,4 @@ h1 {
 }
 h4 {
   font-size: 18px
-}
-table {
-  width: 100%;
-  border: 1px solid #E7E7E7;
-}
-th, tr:nth-child(odd) {
-  background-color: #F5F5F6;
-}
-th, td {
-  padding: 5px;
-  text-align: center;
-  border: 1px solid #E7E7E7;
 }
